@@ -10,7 +10,7 @@ console.log(num);
 //create a variable that holds a value from the input
 let input = document.querySelector("#danceDanceRevolution").value;
 //add 25 to that number
-Number(input);
+input = Number(input);
 input += 25;
 //alert that number
 
