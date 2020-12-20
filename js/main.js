@@ -13,7 +13,7 @@ let input = document.querySelector("#danceDanceRevolution").value;
 input = Number(input);
 input += 25;
 //alert that number
-
+// alert(input)
 //--- Hard
 //create a variable that holds the h1
 
